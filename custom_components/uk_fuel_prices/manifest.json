@@ -1,0 +1,14 @@
+{
+  "domain": "uk_fuel_prices",
+  "name": "UK Fuel Prices",
+  "codeowners": [
+    "@McCookieM"
+  ],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/McCookieM/Home-Assistant-UK-Fuel-Prices/",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/McCookieM/Home-Assistant-UK-Fuel-Prices/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}
